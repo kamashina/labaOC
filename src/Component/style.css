@@ -1,0 +1,64 @@
+
+.Head{
+    width: 700px;
+    margin: 0 auto;
+    margin: auto;
+    width: 50%;
+    min-width: 10%;
+    max-width: 1500px;
+    height: 50%;
+    border-radius: 5px;
+    background: rgb(116,102,180);
+    padding: 0.4em 1.5em 1.5em 1.5em;
+}
+.Spigot{
+width: 700px;
+margin: 0 auto;
+margin: auto;
+width: 50%;
+min-width: 10%;
+max-width: 1500px;
+height: 50%;
+border-radius: 5px;
+background: rgb(116,102,180);
+padding: 0.4em 1.5em 1.5em 1.5em;
+}
+.Vivod{
+    
+        display: inline;
+        word-wrap: break-word;
+        font: 1.2em Arial;
+        width: min-content;
+        max-width: 100%;
+        margin-bottom: 0.8em;
+        
+}
+.Buttons{
+    display: inline;
+    margin: auto;
+    color: black;
+    font-weight: 700;
+    text-decoration: none;
+    user-select: none;
+    padding: .5em 1em;
+    outline: none;
+    border: 2px solid rgb(68, 68, 68);
+    border-radius: 3px;
+    transition: 0.2s;
+    background: rgba(255, 255, 255, 0.575);
+    margin-right: 1em;
+}
+.input{
+    display: block;
+        background-color: rgba(0, 0, 0, 0);
+        font: 1.5em Arial;
+        margin: 1em 0em;
+        width: 150px;
+        height: 1em;
+        border: 2px solid black;
+}
+
+body
+    {
+        background: rgb(54,62,112);
+    }
